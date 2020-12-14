@@ -1,2 +1,2 @@
-# Text-speed-test-JS-
+# Text-speed-test-JS
 Simple text speed test created with JavaScript
